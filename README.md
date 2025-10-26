@@ -130,11 +130,7 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Desenvolvido com
 
-Este projeto foi desenvolvido usando [Lovable](https://lovable.dev), uma plataforma que permite criar aplicações web modernas com IA.
-
-**URL do Projeto**: https://lovable.dev/projects/3c1283f7-7ac3-4e57-9b48-41136978f349
 
 ---
 
